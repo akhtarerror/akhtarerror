@@ -34,6 +34,3 @@ Hi there! I'm **Akhtar Faizi Putra**, a passionate full-stack developer from Ind
 
 ## 🎮 Play Game With Me
 <img src="https://raw.githubusercontent.com/akhtarerror/akhtarerror/output/snake.svg" alt="Snake animation" />
-
----
-⭐ From [akhtarerror](https://github.com/akhtarerror) with ❤️
