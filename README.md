@@ -1,4 +1,6 @@
-![Akhtar Faizi Putra](img/github-header-image.png)
+<div align="center">
+  <img width="100%" src="img/github-header-image.png" alt="Akhtar Faizi Putra Banner" />
+</div>
 
 ## 👨‍💻 About Me
 Hi there! I'm **Akhtar Faizi Putra**, a passionate full-stack developer from Indonesia with a love for creating innovative solutions and building amazing digital experiences. I enjoy working with modern technologies and am always eager to learn new skills. Whether it's mobile app development, web applications, or backend systems, I'm always up for a challenge!
